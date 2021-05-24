@@ -44,14 +44,16 @@ str_locate_all(string, "a") # locate all occurrences of "a", note the case sensi
 Sentiment encapsulates an opinion of a person (1), about a target or aspect of the target (2), that has a certain valence (+/-/0) or emotion (3) and strength (4). Quantifying sentiment in the simplest sense is done by just counting the number of negative and positive words, and making up the balance. The example below operationalizes this idea.
 
 ```R
-# Sentiment Analysis
+# Sentiment analysis basics
 string <- c("I love Amsterdam with its beautiful canals, fabulous restaurants and terrific history, although there is quite some outdoor noise late at night. The sports facilities the city offers are not bad at all.")
 # count positive words: "love, beautiful, fabulous, terrific" -> 4
 # count negative words: "noise, bad" -> 2
-# balance of valence words: 2
+# count balance of valence words: 2
 
-# Q: is bad really negative here? 
+# Is bad really negative here? In other words, are there ways to account for negations and amplifiers?
 ```
+
+Now, instead of manually counting the valence words, we can rely on sentiment and emotion dictionaries, in which lists of valence loaded words are collected. 
 
 #### Knowledge clip
 Please find the knowledge clip for the first week here (link will follow), in which the importance of cleaning text data (stemming, removing stop-words, etc.) is addressed. 
