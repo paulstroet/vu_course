@@ -58,7 +58,7 @@ string <- c("I love Amsterdam with its beautiful canals, fabulous restaurants an
 Now, instead of manually counting the valence words, we can rely on sentiment and emotion dictionaries, in which lists of valence loaded words are collected. 
 
 #### Knowledge clip
-Please find the knowledge clip for the first week here (link will follow), in which the importance of cleaning text data (stemming, removing stop-words, etc.) is addressed. 
+Please find the knowledge clip for the first week here (link will follow), in which the importance of cleaning text data (stemming, removing stop-words, etc.) is addressed, and how to do this in an automated and fast fashion. 
 
 * * *
 
