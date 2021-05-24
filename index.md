@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the VU course Applied Machine Learning, hosted by the Management and Organisation department
 
 You can use the [editor on GitHub](https://github.com/paulstroet/vu_course/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
