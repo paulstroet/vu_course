@@ -47,7 +47,7 @@ Sentiment encapsulates an opinion of a person (1), about a target or aspect of t
 
 ```R
 # Sentiment analysis basics
-string <- c("I love Amsterdam with its beautiful canals, fabulous restaurants and terrific history, although there is quite some outdoor noise late at night. The sports facilities the city offers are not bad at all.")
+string <- c("I love Amsterdam with its beautiful canals, fabulous restaurants and terrific history, although there is quite some outdoor noise late at night. The sport facilities the city offers are not bad at all.")
 # count positive words: "love, beautiful, fabulous, terrific" -> 4
 # count negative words: "noise, bad" -> 2
 # count balance of valence words: 4 - 2 = 2 -> in general this string is positive
