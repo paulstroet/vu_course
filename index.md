@@ -10,8 +10,8 @@ This course is aimed at PhD students of the M&O department, who wish to integrat
 |:------------|:----------------------------------------------|:-------------------------------|
 | 1           | Introduction + Natural Language Processing    | Prof. S. Khapova & Paul Stroet |
 | 2           | Web-scraping                                  | Paul Stroet                    |
-| 3           | Supervised learning                           | Paul Stroet                    |
-| 4           | Unsupervised learning                         | Paul Stroet                    |
+| 3           | Supervised Learning                           | Paul Stroet                    |
+| 4           | Unsupervised Learning                         | Paul Stroet                    |
 | 5           | Guest Lecture: Automated Literature Reviews   | Prof. S. Khapova               |
 | 6           | Guest Lecture: Interpretable Machine Learning | Prof. A. van Witteloostuijn    |
 
