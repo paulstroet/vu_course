@@ -15,7 +15,7 @@ This course is aimed at PhD students of the M&O department, who wish to integrat
 
 ### Week 1: Introduction + Natural Language Processing
 
-In NLP, we cover the following topics: 
+In the first week, we cover the following topics: 
 
 - String basics
 - Sentiment analysis
