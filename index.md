@@ -18,31 +18,19 @@ This course is aimed at PhD students of the M&O department, who wish to integrat
 #### Code
 
 ```R
-Syntax highlighted code block
+// R code.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+# String basics
+string <- c("Welcome to the Applied Machine Learning course")
+nchar(string) # 46 characters
+str_locate(string, "Applied") # locate whole words
+str_locate_all(string, "a") # locate single letters, note the case sensitivity
 ```
 
 #### Knowledge clip
+Please find the knowledge clip for the first week here (link will follow). 
 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/paulstroet/vu_course/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* * *
 
 ### Support or Contact
 
