@@ -2,6 +2,8 @@
 
 This course is aimed at PhD students of the M&O department, who wish to integrate state-of-the-art machine learning techniques in their research. Perhaps you have come across  web-scraping, efficient training of algorithms or computer vision, but do not fully know yet how you can take advantage of these techniques yourself. In this course, we will take you by hand and explore the potential together. We will take a hands-on approach and provide elementary code, which you can easily adapt and extend for your own purposes. We will use the R programming language, and all code will be annotated, sorted per topic and can be find below. Next, we will host two guest lectures, each provides an example of how to exploit machine learning relevant to the M&O discipline. 
 
+* * *
+
 ### Course Schedule
 
 | Week        | Menu                                          | Speakers                       |
@@ -48,7 +50,7 @@ Sentiment encapsulates an opinion of a person (1), about a target or aspect of t
 string <- c("I love Amsterdam with its beautiful canals, fabulous restaurants and terrific history, although there is quite some outdoor noise late at night. The sports facilities the city offers are not bad at all.")
 # count positive words: "love, beautiful, fabulous, terrific" -> 4
 # count negative words: "noise, bad" -> 2
-# count balance of valence words: 2
+# count balance of valence words: 4 - 2 = 2 -> in general this string is positive
 
 # Is bad really negative here? In other words, are there ways to account for negations and amplifiers?
 ```
