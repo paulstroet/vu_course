@@ -70,7 +70,7 @@ Coming soon
 
 ### Support or Contact
 
-Having trouble setting up the right configurations in R, or installing the right packages? Check out our documentation (link will follow) in which the configurations of my R version are outlined, or send an e-mail to p.stroet@businessdatascience.nl and we’ll help you sort it out. 
+Having trouble setting up the right configurations in R, or installing the correct packages? Check out our documentation (link will follow) in which the configurations of my R version are outlined, or send an e-mail to p.stroet@businessdatascience.nl and we’ll help you sort it out. 
 
 ### Thoughts
 
