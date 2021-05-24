@@ -35,3 +35,8 @@ Please find the knowledge clip for the first week here (link will follow).
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+### Thoughts
+
+NLP, split in multiple lectures. One with the basics, second with sentiment analysis, third with topic modeling, fourth with predictive modeling
+Additional topic: Deep Learning
