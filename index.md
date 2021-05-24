@@ -2,13 +2,16 @@
 
 This course is aimed at PhD students of the M&O department, who wish to integrate state-of-the-art machine learning techniques in their research. Perhaps you have come across  web-scraping, efficient training of algorithms or , but do not fully know yet how you can take advantage of these techniques yourself. In this course, we will take you by hand and explore the potential together. We will take a hands-on approach and provide elementary code, which you can easily adapt and extend for your own purposes. We will use the R programming language. Next, we will host two guest lectures, each provides an example of how to exploit machine learning in the M&O discipline. 
 
-You can use the [editor on GitHub](https://github.com/paulstroet/vu_course/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Course Schedule
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Schedule
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+| Week        | Menu                                        | Speakers                       |
+|:------------|:--------------------------------------------|:-------------------------------|
+| 1           | Introduction + Natural Language Processing  | Prof. S. Khapova & Paul Stroet |
+| 2           | Web-scraping                                | Paul Stroet                    |
+| 3           | Supervised learning                         | Paul Stroet                    |
+| 4           | Unsupervised learning                       | Paul Stroet                    |
+| 5           | Guest Lecture                               | Prof. S. Khapova               |
+| 6           | Guest Lecture                               | Prof. A. van Witteloostuijn    |
 
 ```markdown
 Syntax highlighted code block
