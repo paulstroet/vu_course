@@ -15,6 +15,14 @@ This course is aimed at PhD students of the M&O department, who wish to integrat
 
 ### Week 1: Introduction + Natural Language Processing
 
+In NLP, we cover the following topics: 
+
+- String basics
+- Sentiment analysis
+- Topic modeling
+  - Latent Dirichlet Allocation
+  - Non-negative Matrix Factorization
+
 #### Code
 
 ```R
@@ -23,8 +31,8 @@ This course is aimed at PhD students of the M&O department, who wish to integrat
 # String basics
 string <- c("Welcome to the Applied Machine Learning course")
 nchar(string) # 46 characters
-str_locate(string, "Applied") # locate whole words
-str_locate_all(string, "a") # locate single letters, note the case sensitivity
+str_locate(string, "Applied") # locate first occurrence of the word "Applied"
+str_locate_all(string, "a") # locate all occurrences of "a", note the case sensitivity
 ```
 
 #### Knowledge clip
