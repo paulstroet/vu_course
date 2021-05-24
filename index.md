@@ -75,4 +75,6 @@ Having trouble setting up the right configurations in R, or installing the corre
 ### Thoughts
 
 NLP, split in multiple lectures. One with the basics, second with sentiment analysis, third with topic modeling, fourth with predictive modeling
-Additional topic: Deep Learning, covering neural nets
+Additional topics: Deep Learning, covering neural nets; Network Analysis, extracting nodes and using them in a predictive model
+Or, cover basics in this course (AML I), and dive into more depth tailored to the global needs in AML II
+
