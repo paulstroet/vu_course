@@ -15,7 +15,9 @@ This course is aimed at PhD students of the M&O department, who wish to integrat
 
 ### Week 1: Introduction + Natural Language Processing
 
-```markdown
+#### Code
+
+```R
 Syntax highlighted code block
 
 # Header 1
@@ -32,6 +34,9 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
+#### Knowledge clip
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
