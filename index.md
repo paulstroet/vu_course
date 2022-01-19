@@ -10,10 +10,11 @@ This course is aimed at PhD students of the M&O department, who wish to integrat
 |:------------|:----------------------------------------------|:-------------------------------|
 | 1           | Introduction + Natural Language Processing    | Prof. S. Khapova & Paul Stroet |
 | 2           | Web-scraping                                  | Paul Stroet                    |
-| 3           | Supervised Learning                           | Paul Stroet                    |
+| 3           | Supervised Learning                           | Dr. B. Bosma                   |
 | 4           | Unsupervised Learning                         | Paul Stroet                    |
 | 5           | Guest Lecture: Automated Literature Reviews   | Prof. S. Khapova               |
-| 6           | Guest Lecture: Interpretable Machine Learning | Prof. A. van Witteloostuijn    |
+| 6           | Guest Lecture: Machine Learning in OB         | Dr. J. Oostrom                 |
+| 7           | Guest Lecture: Interpretable Machine Learning | Prof. A. van Witteloostuijn    |
 
 * * *
 
@@ -79,3 +80,5 @@ NLP, split in multiple lectures. One with the basics, second with sentiment anal
 Additional topics: Deep Learning, covering neural nets; Network Analysis, extracting nodes and using them in a predictive model.
 
 Or, cover basics in this course (AML I), and dive into more depth tailored to the global needs in eg AML II.
+
+First offered as summer school, then in a block in the academic year, and then scale it up to a MOOC
