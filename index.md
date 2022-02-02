@@ -84,3 +84,6 @@ Additional topics: Deep Learning, covering neural nets; Network Analysis, extrac
 Or, cover basics in this course (AML I), and dive into more depth tailored to the global needs in eg AML II.
 
 First offered as summer school, then in a block in the academic year, and then scale it up to a MOOC
+
+8 weeks of interesting lectures, concluded with an assignment in which you accelerate a current project by adopting one of the techniques taught in this course
+you also need to present your paper, and you will give your peers feedback on the presentation
