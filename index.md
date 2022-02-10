@@ -8,15 +8,12 @@ This course is aimed at PhD students of the M&O department, who wish to integrat
 
 | Week        | Topics                                        | Speakers                       |
 |:------------|:----------------------------------------------|:-------------------------------|
-| 1.1         | Introduction + Coduction cycle                | Prof. A. van Witteloostuijn & Paul Stroet |
-| 1.2         | Introduction + Natural Language Processing    | Prof. S. Khapova & Paul Stroet |
-| 2.1         | Web-scraping                                  | Paul Stroet                    |
-| 2.2         | Longitudinal data                             | Dr. J. Brassey & Paul Stroet   |
-| 3           | Supervised Learning                           | Dr. B. Bosma                   |
-| 4           | Unsupervised Learning                         | Paul Stroet                    |
-| 5           | Guest Lecture: Automated Literature Reviews   | Prof. S. Khapova               |
-| 6           | Guest Lecture: Machine Learning in OB         | Dr. J. Oostrom                 |
-| 7           | Guest Lecture: Interpretable Machine Learning | Prof. A. van Witteloostuijn    |
+| 1           | Introduction + Coduction cycle                | Prof. Dr. A. van Witteloostuijn & Paul Stroet |
+| 2           | Natural Language Processing: Automated Literature Reviews | Prof. Dr. S. Khapova & Paul Stroet |
+| 3           | Supervised Learning + Data Imputation         | Dr. B. Bosma & Paul Stroet                  |
+| 4           | Machine Learning in OB                        | Dr. J. Oostrom & Paul Stroet                |
+| 5           | Longitudinal data: Case study                 | Dr. J. Brassey & Paul Stroet   |
+| 6           | Unsupervised learning + Web-scraping          | Paul Stroet                    |
 
 * * *
 
